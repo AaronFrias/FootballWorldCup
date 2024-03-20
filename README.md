@@ -1,5 +1,6 @@
 # Football WorldCup Dataset Analysis
 **ENG**
+
 Hello world, in this project we are going to analyze a dataset with information related to all the World Cups.
 
 In it we are going to perform an extensive analysis of the data, looking at correlations, countries with better or worse performance, etc.
@@ -9,6 +10,7 @@ To view the project, go to the file Aaron_Frias_EDA_EDA_World_Cup_Dataset.ipynb
 Enjoy the project, Aaron!
 
 # Analisis World Cup Dataset
+
 **ESP**
 
 Hola mundo, en este proyecto vamos a analizar un conjunto de datos con información relativa a todos los Mundiales de Fútbol.
